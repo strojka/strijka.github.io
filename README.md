@@ -1,1 +1,1 @@
-# strijka.github.io
+# strijka
